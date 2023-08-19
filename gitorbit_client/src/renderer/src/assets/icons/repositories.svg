@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="repositories" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path id="repositories-icon" d="M9,7.874l0,16.252c-1.724,0.445 -3,2.012 -3,3.874c0,2.208 1.792,4 4,4c2.208,0 4,-1.792 4,-4c0,-1.862 -1.276,-3.429 -3,-3.874l0,-6.126l1,0c5.977,-0 10.934,-4.37 11.849,-10.09c1.8,-0.39 3.151,-1.994 3.151,-3.91c0,-2.208 -1.792,-4 -4,-4c-2.208,0 -4,1.792 -4,4c0,1.802 1.194,3.327 2.833,3.827c-0.858,4.651 -4.934,8.173 -9.833,8.173l-1,0l0,-8.126c1.724,-0.445 3,-2.012 3,-3.874c0,-2.208 -1.792,-4 -4,-4c-2.208,-0 -4,1.792 -4,4c0,1.862 1.276,3.429 3,3.874Zm1,18.126c1.104,0 2,0.896 2,2c-0,1.104 -0.896,2 -2,2c-1.104,0 -2,-0.896 -2,-2c0,-1.104 0.896,-2 2,-2Zm13,-24c1.104,0 2,0.896 2,2c0,1.104 -0.896,2 -2,2c-1.104,0 -2,-0.896 -2,-2c0,-1.104 0.896,-2 2,-2Zm-13,-0c1.104,-0 2,0.896 2,2c0,1.104 -0.896,2 -2,2c-1.104,-0 -2,-0.896 -2,-2c0,-1.104 0.896,-2 2,-2Z" style="fill:white;"/>
+    </g>
+</svg>

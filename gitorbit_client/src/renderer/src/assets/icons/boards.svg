@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="boards" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="boards1" serif:id="boards">
+        <path id="boards-icon" d="M32,0l-32,0l0,32l32,0l0,-32Zm-2,10l-28,0l-0,5l14,0l-0,2l-14,0l0,6l14,0l0,2l-14,0l0,5l28,-0l-0,-20Zm-0,-2l-28,0l0,-6l28,0l-0,6Z" style="fill:white;"/>
+    </g>
+</svg>

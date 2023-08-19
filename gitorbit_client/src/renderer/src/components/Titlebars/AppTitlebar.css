@@ -1,0 +1,12 @@
+#app-titlebar {
+  -webkit-app-region: drag;
+
+  background: url('../../assets/backgrounds/warped-curves.svg'),
+    linear-gradient(90deg, #6dafb9 0%, #61368c 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#user-avatar {
+  -webkit-app-region: no-drag;
+}

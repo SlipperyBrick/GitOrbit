@@ -1,0 +1,53 @@
+{
+  "version": "2.0.0",
+  "presentation": {
+    "echo": true,
+    "reveal": "always",
+    "focus": false,
+    "panel": "dedicated",
+    "showReuseMessage": true
+  },
+  "tasks": [
+    {
+      "label": "Create terminals",
+      "dependsOn": ["GitOrbit Client", "GitOrbit Express"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    },
+    {
+      "label": "GitOrbit Client",
+      "icon": { "id": "window", "color": "terminal.ansiWhite" },
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [],
+      "options": {
+        "cwd": "${workspaceFolder}/gitorbit_client"
+      },
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "group": "GitOrbit"
+      }
+    },
+    {
+      "label": "GitOrbit Express",
+      "icon": { "id": "server", "color": "terminal.ansiWhite" },
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": ["/C", "npm run start"],
+      "options": {
+        "cwd": "${workspaceFolder}/gitorbit_express"
+      },
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "group": "GitOrbit"
+      }
+    }
+  ]
+}
