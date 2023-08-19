@@ -5,3 +5,7 @@ out
 extensions
 build
 env
+
+.npmrc
+.prettierignore
+.prettierrc.yaml
